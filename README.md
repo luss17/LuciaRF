@@ -10,13 +10,13 @@ Hello! 👋 I'm Lucía, a telecommunications engineer specialized in simulation 
 Here you'll find some of my most recent and relevant projects:
 
 1. **Project Python:** 
-   - https://github.com/LuciaRF/python-Project(#)(#)
+   - https://github.com/LuciaRF/python-Project
 
 2. **Project Simulation C++:** Brief description of project 2.
-   - https://github.com/LuciaRF/Simulation-Project(#)
+   - https://github.com/LuciaRF/Simulation-Project
 
 3. **Project VR:**
-   - https://github.com/LuciaRF/Game-Project(#)
+   - https://github.com/LuciaRF/Game-Project
 
 ---
 
@@ -31,10 +31,10 @@ Here you'll find some of my most recent and relevant projects:
 Aquí encontrarás algunos de mis proyectos más recientes y relevantes:
 
 1. **Proyectos de Python:** 
-   - https://github.com/LuciaRF/python-Project(#)
+   - https://github.com/LuciaRF/python-Project
 
 2. **Proyectos de Simulación en C++:**
-   - https://github.com/LuciaRF/Simulation-Project(#)
+   - https://github.com/LuciaRF/Simulation-Project
 
 3. **Proyectos VR :**
-   - https://github.com/LuciaRF/Game-Project(#)
+   - https://github.com/LuciaRF/Game-Project
